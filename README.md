@@ -11,6 +11,6 @@ Linkatee is a customizable link-in-bio tool similar to Linktree. It allows users
 ## Technologies Used
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: PHP 
-- Framework: Larvel x9  (optional)
-- Database: MYSQL  (optional)
+- Framework: Larvel x9 , Compuser 
+- Database: MYSQL  
 - SERVER: HOSTINGER
